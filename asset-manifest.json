@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tick-price-animation/static/css/main.e03f0e0e.css",
+    "main.js": "/tick-price-animation/static/js/main.dfc16b1c.js",
+    "static/js/453.1b162dff.chunk.js": "/tick-price-animation/static/js/453.1b162dff.chunk.js",
+    "index.html": "/tick-price-animation/index.html",
+    "main.e03f0e0e.css.map": "/tick-price-animation/static/css/main.e03f0e0e.css.map",
+    "main.dfc16b1c.js.map": "/tick-price-animation/static/js/main.dfc16b1c.js.map",
+    "453.1b162dff.chunk.js.map": "/tick-price-animation/static/js/453.1b162dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e03f0e0e.css",
+    "static/js/main.dfc16b1c.js"
+  ]
+}
